@@ -39,25 +39,6 @@ Untuk mendekripsi ciphertext, pengguna harus memasukkan ciphertext dalam format 
 
 ## Contoh
 
-### Enkripsi:
-```bash
-Select option: 
-1. Encrypt
-2. Decrypt
-Enter choice (1/2): 1
-Enter plaintext: helloDES
-Enter 8-character key: mysecret
-Encrypted (hex): a1b2c3d4e5f6g7h8
-```
+![Screenshot (75)](https://github.com/user-attachments/assets/0a8d05a5-f847-4eb2-a2f8-a18649e23422)
 
-### Dekripsi:
-```bash
-Select option: 
-1. Encrypt
-2. Decrypt
-Enter choice (1/2): 2
-Enter ciphertext (hex): a1b2c3d4e5f6g7h8
-Enter 8-character key: mysecret
-Decrypted text: helloDES
-```
 

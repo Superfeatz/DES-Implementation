@@ -1,7 +1,7 @@
 # Tugas Implementasi Data Encryption Standard (DES)
 
-Nama  :  Muhammad Hafidz Harridil Mahali
-NRP  :  5025221030
+## Nama  :  Muhammad Hafidz Harridil Mahali
+## NRP  :  5025221030
 
 
 Repositori ini berisi implementasi algoritma **Data Encryption Standard (DES)** dalam Python. Algoritma ini mendukung proses enkripsi dan dekripsi teks dengan menggunakan kunci sepanjang 8 karakter yang diberikan oleh pengguna. Algoritma DES beroperasi pada blok data 64-bit dan menggunakan struktur Feistel dengan 16 ronde untuk enkripsi.

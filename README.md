@@ -15,8 +15,6 @@ Repositori ini berisi implementasi algoritma **Data Encryption Standard (DES)** 
 - [Cara Kerja](#cara-kerja)
 - [Cara Menggunakan](#cara-menggunakan)
 - [Contoh](#contoh)
-- [Kebutuhan](#kebutuhan)
-
 
 ## Cara Kerja
 
